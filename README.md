@@ -1,6 +1,8 @@
 # ResNet_Image_Classification_PyTorch
 This is a ResNet image classification training code,can be converted to onnx model and deployed to Android using **ncnn**
 
+dataset used for training:https://www.kaggle.com/slothkong/10-monkey-species
+
 **Android demo**
 
 https://github.com/yaoyi30/ResNet_ncnn_android
